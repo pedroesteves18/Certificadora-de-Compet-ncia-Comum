@@ -3,6 +3,7 @@ Lógica de Programação
 ## Apresentação
     01 |Será abordado a lógica de programação, mostrando os princípios básicos da programação, utilizando a linguagem C|
     02 |Será feito via vídeo aulas e código das aulas disponíveis no Github|
+    03 |Utilização de Github para disponibilização dos códigos feitos nas aulas, VScode para aulas e Google Meet para gravação das aulas|
 
 ## Fundamentos da Programação
     01 |Constantes e variáveis| 
