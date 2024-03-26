@@ -24,3 +24,10 @@ Lógica de Programação
     02 |Vetor em laço de repetição| 
     03 |Apresentação de matriz| 
     04 |Matriz em laço de repetição| 
+
+## String
+    01 |Apresentação de strings| 
+    02 |Funções biblioteca string.h|
+
+## Mini Projeto Final
+    01 |Uso das funcionalidades apresentadas até o momento|
