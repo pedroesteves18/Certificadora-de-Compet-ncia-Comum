@@ -1,5 +1,9 @@
 Lógica de Programação
 
+## Apresentação
+    01 |Será abordado a lógica de programação, mostrando os princípios básicos da programação, utilizando a linguagem C|
+    02 |Será feito via vídeo aulas e código das aulas disponíveis no Github|
+
 ## Fundamentos da Programação
     01 |Constantes e variáveis| 
     02 |Comandos de entrada e saída| 
@@ -28,6 +32,3 @@ Lógica de Programação
 ## String
     01 |Apresentação de strings| 
     02 |Funções biblioteca string.h|
-
-## Mini Projeto Final
-    01 |Uso das funcionalidades apresentadas até o momento|
