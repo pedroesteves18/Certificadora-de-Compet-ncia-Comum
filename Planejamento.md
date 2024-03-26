@@ -1,3 +1,9 @@
+## Membros do Grupo
+    Pedro Esteves Mendonça da Silva
+    João Pedro Koguishi
+    Wilson de Oliveira Santos 
+    Guilherme de Oliveira Gomes
+    
 Lógica de Programação
 
 ## Apresentação
