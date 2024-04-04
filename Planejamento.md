@@ -1,8 +1,8 @@
 ## Membros do Grupo
-    Pedro Esteves Mendonça da Silva
-    João Pedro Koguishi
-    Wilson de Oliveira Santos 
-    Guilherme de Oliveira Gomes
+    Pedro Esteves Mendonça da Silva - Vetores e Matrizes
+    João Pedro Koguishi - Estrutura de decisão e repetição
+    Wilson de Oliveira Santos - Fundamentos da Programação/Funções
+    Guilherme de Oliveira Gomes - String/Apresentação do curso
     
 Lógica de Programação
 
